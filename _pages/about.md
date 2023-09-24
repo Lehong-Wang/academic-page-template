@@ -18,9 +18,9 @@ My recent works have been on employing computer vision and computer graphics tec
 <p style="text-align: center;"> 
   <a href="https://lehong-wang.github.io/academic-page-template/">Home</a>
   /
-  <a href="https://academicpages.github.io/publications/">Publications</a>
+  <a href="https://lehong-wang.github.io/publications/">Publications</a>
   /
-  <a href="https://academicpages.github.io/cv/">CV</a>
+  <a href="https://lehong-wang.github.io/cv/">CV</a>
 </p>
 
 
