@@ -24,29 +24,10 @@ My recent works have been on employing computer vision and computer graphics tec
 </p>
 
 
-<iframe 
-  width="560" height="315" 
-  src="https://www.youtube.com/embed/31cjtfL8-b4?autoplay=1&mute=1&playlist=31cjtfL8-b4&loop=1" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-
-
 
 <iframe 
   width="560" height="315" 
-  src="https://www.youtube.com/embed/Q5BHOogOOLo?si=6Fviz2aMtwIWX53b" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-
-
-
-<iframe 
-  width="560" height="315" 
-  src="https://www.youtube.com/embed/Q5BHOogOOLo?autoplay=1&mute=1&si=6Fviz2aMtwIWX53b" 
+  src="https://www.youtube.com/embed/Q5BHOogOOLo?autoplay=1&mute=1" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
